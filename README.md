@@ -54,4 +54,4 @@ iii. Identify most important features impacting churn (Model evaluation metrics 
 #### Mini Project 3 Answers
 
 *Answers to the questions above, please click on the link below* <br>
-[Click here to view code]()
+[Click here to view code](https://github.com/YuriEvan/Mini-Project-3/blob/main/Mini_project_3%20(Group%208).ipynb)
