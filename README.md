@@ -28,24 +28,24 @@ _Hypothesis_
 #### Mini Project 3 questions
 
 1.Detect and resolve problems in the data (Missing value, Outliers, Unexpected value, etc.) <br>
-i.How many customers had zero monthly revenue? <br> 
-ii.How many columns have missing values percentage > 5%? <br>
-iii.For columns, "UniqueSubs" and "DirectorAssistedCalls" remove outliers, if any <br>
+i. How many customers had zero monthly revenue? <br> 
+ii. How many columns have missing values percentage > 5%? <br>
+iii. For columns, "UniqueSubs" and "DirectorAssistedCalls" remove outliers, if any <br>
 
 2.Perform exploratory analysis to analyze customer churn <br>
-i.Does customers with high overage minutes also have high revenue? <br>
-ii.Does high number of active subscribers lead to low monthly revenue? <br>
-iii.Does credit rating have an impact in churn rate? <br>
+i. Does customers with high overage minutes also have high revenue? <br>
+ii. Does high number of active subscribers lead to low monthly revenue? <br>
+iii. Does credit rating have an impact in churn rate? <br>
 
 3.Create additional features to help predict churn <br>
-i.Percent of current active subs over total subs <br>
-ii.Percent of recurrent charge to monthly charge <br>
-iii.Percent of overage minutes over total monthly minutes <br>
+i. Percent of current active subs over total subs <br>
+ii. Percent of recurrent charge to monthly charge <br>
+iii. Percent of overage minutes over total monthly minutes <br>
 
 4.Build classification model to predict customer churn <br>
-i.Build a simple logistic regression model to predict churn and evaluate model accuracy on test data set <br>
-ii.Build Random Forest classifier to compare model accuracy over the logistic regression model <br>
-iii.Identify most important features impacting churn (Model evaluation metrics to be used: GINI, AUC, Precision and Recall) <br>
+i. Build a simple logistic regression model to predict churn and evaluate model accuracy on test data set <br>
+ii. Build Random Forest classifier to compare model accuracy over the logistic regression model <br>
+iii. Identify most important features impacting churn (Model evaluation metrics to be used: GINI, AUC, Precision and Recall) <br>
 
 5.Use the hold out data provided to predict churners using the best model identified in step 4 <br>
 
