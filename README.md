@@ -17,7 +17,7 @@ Pauline - model iterations / model development & validation <br>
 - Company's postpaid business of voice only plans is struggling to maintain its strong foothold in local market because of,
 - Decline in overall customer base (high churn rate combined with low acquisition rate), leading to a decline in total market share
 - High churn rate amongst customers leading to a revenue decline of ~500k USD every month
-- 
+
 #### Project objectives
 _Business Objective_
 - Reduce monthly customer churn by identifying high risk customers well in advance
